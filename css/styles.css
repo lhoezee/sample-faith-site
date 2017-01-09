@@ -1,0 +1,35 @@
+body {
+    background-color: burlywood;
+}
+h1 {
+    color: red;
+} 
+p {
+    color: green;
+}
+
+img {
+    width: 230px;
+}
+
+table {
+    margin: 0;
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+tr {
+    margin: 0;
+}
+tr {
+    background-color: darkgray;
+    margin: 0;
+}
+
+td {
+    border-spacing: none;
+    border: 1px solid black;
+    padding: 6px;
+    color: white;
+}
